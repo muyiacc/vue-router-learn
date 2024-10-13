@@ -1,0 +1,13 @@
+<template>
+    <div>
+        会员默认页
+    </div>
+</template>
+
+<script setup>
+
+</script>
+
+<style  scoped>
+
+</style>
